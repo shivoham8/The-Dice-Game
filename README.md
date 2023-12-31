@@ -28,4 +28,4 @@ This project is part of the www 🎲 App Brewery 🎲 com.
 
 ---
 
-Made with ❤️ by [Ajay Gupta]
+Made with ❤️ by Ajay Gupta
