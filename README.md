@@ -22,10 +22,4 @@ Welcome to the Dicee web application! Shake the virtual dice and see who the win
 
 - Dice images sourced from external files.
 
-## About the Developer:
-
-This project is part of the www 🎲 App Brewery 🎲 com.
-
 ---
-
-Made with ❤️ by Ajay Gupta
